@@ -1,3 +1,2 @@
-## Blog
+## Posts
 
-A short blog for some technical musings.
