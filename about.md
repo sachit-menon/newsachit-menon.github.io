@@ -1,6 +1,6 @@
 # About
 
-<img style="float: right; padding-left: 50px" src="./about/media/image1.jpeg">
+<img style="float: right; padding-left: 50px; border:none;" src="./about/media/image1.jpeg">
 
 Hi\! My name is Sachit; I’m a student at Duke University studying math and computer science as an A.B. Scholar. My primary interests lie in deep learning and AI more generally (both fundamental methods and applications, in that order). I’m particularly interested in unsupervised learning, especially representation learning and generative modeling, as well as methods that reason with uncertainty. This website (very much under construction) exists mostly as a place for me to consolidate my explorations in these topics – and hopefully as an introduction to others interested in them too\!
 
